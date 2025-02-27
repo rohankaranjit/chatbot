@@ -1,4 +1,3 @@
-
 import random
 import nltk
 from sklearn.feature_extraction.text import CountVectorizer
